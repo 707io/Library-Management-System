@@ -206,6 +206,13 @@ Handles all library operations including:
 
 ---
 
+# Author
+
+**Austine Luise De Los Santos** | 
+BSIT 1-3
+
+---
+
 # License
 
 This project is for educational purposes only.
